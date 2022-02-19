@@ -1,0 +1,8 @@
+{
+  "BOT_TOKEN": "",
+  "CHANNEL_ID": "",
+  "EXPLORER_WS_HOST_URL": "https://explorer.komodoplatform.com:10000",
+  "EXPLORER_WS_SOCKET_URL": "/tkltest/socket.io",
+  "EXPLORER_API_URL": "/tkltest/api",
+  "EXPLORER_TXID_URL": "http://explorer.komodoplatform.com:20000/tokens/#tokenid#/transactions/TKLTEST"
+}
