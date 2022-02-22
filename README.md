@@ -1,5 +1,5 @@
-# tokel-discord-feed-bot
-Discord bot to pull latest tokens created on Tokel chain
+# Tokel - Discord feed bot
+Discord bot to pull latest tokens created on the Tokel blockchain
 
 ## How to configure
 Fill in the blanks in config.json file
